@@ -1,0 +1,3 @@
+#Gitignore file
+jupyter_notebooks/*
+rubin_opsim/*
