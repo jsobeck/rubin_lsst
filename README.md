@@ -1,2 +1,4 @@
-# rubin_lsst
-JS Experimentation and development with LSST software 
+# Rubin LSST Project
+JS experimentation with exisiting LSST software packages.
+
+JS development of code for LSST science projects.
